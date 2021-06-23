@@ -1,0 +1,16 @@
+[RESOURCES]
+Medico
+Certificador
+[VARIABLES]
+Llegada Paciente.NumberOut
+Llegada Segunda Dosis.NumberOut
+Certificación.NumberOut
+Salida Sin Vacuna.NumberOut
+Certificación.NumberIn
+Salida Paciente.NumberOut
+Vacunar.NumberOut
+Vacunar.NumberIn
+Post Vacunación.NumberIn
+Post Vacunación.NumberOut
+Se Vacuna.NumberOut True
+Se Vacuna.NumberOut False

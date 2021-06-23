@@ -1,0 +1,78 @@
+SIMAN Run Controller.
+
+257.50089 Hours>
+                                      ARENA Simulation Results
+                            aenriquezm2@est.ups.edu.ec - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 6/11/2021
+Analyst: aenriquezm2@est.ups.edu.ec                                  Model revision date: 6/11/2021
+
+Replication ended at time      : 800.0 Hours (Friday, September 17, 2021, 07:00:00)
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+NO_VALIDO.VATime                                --         --         --         --          0
+NO_VALIDO.NVATime                               --         --         --         --          0
+NO_VALIDO.WaitTime                              --         --         --         --          0
+NO_VALIDO.TranTime                              --         --         --         --          0
+NO_VALIDO.OtherTime                             --         --         --         --          0
+NO_VALIDO.TotalTime                             --         --         --         --          0
+SEGUNDA.VATime                              .47422     .00325     .00000     .54964       6697    
+SEGUNDA.NVATime                             .00000     .00000     .00000     .00000       6697    
+SEGUNDA.WaitTime                            .05328     .01202     .00000     .43750       6697    
+SEGUNDA.TranTime                            .00000     .00000     .00000     .00000       6697    
+SEGUNDA.OtherTime                           .00000     .00000     .00000     .00000       6697    
+SEGUNDA.TotalTime                           .52750     .01271     .00000     .92929       6697    
+VALIDO.VATime                               .47492     .00240     .00000     .54914       9637    
+VALIDO.NVATime                              .00000     .00000     .00000     .00000       9637    
+VALIDO.WaitTime                             .03727     (Corr)     .00000     .45609       9637    
+VALIDO.TranTime                             .00000     .00000     .00000     .00000       9637    
+VALIDO.OtherTime                            .00000     .00000     .00000     .00000       9637    
+VALIDO.TotalTime                            .51219     (Corr)     .00000     .97902       9637    
+Vacunar.Queue.WaitingTime                   .04620     (Corr)     .00000     .45609      15505    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+NO_VALIDO.WIP                               .00000     (Insuf)    .00000     .00000     .00000    
+SEGUNDA.WIP                                 4.4182     (Corr)     .00000     12.000     7.0000    
+VALIDO.WIP                                  6.1710     (Corr)     .00000     12.000     4.0000    
+Medico.NumberBusy                           2.4286     (Corr)     .00000     3.0000     3.0000    
+Medico.NumberScheduled                      3.0000     (Insuf)    3.0000     3.0000     3.0000    
+Medico.Utilization                          .80954     (Corr)     .00000     1.0000     1.0000    
+Vacunar.Queue.NumberInQueue                 .89546     (Corr)     .00000     11.000     1.0000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+NO VACUNADOS                                    839  Infinite
+CONTAR VACUNADOS                              16334  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+NO_VALIDO.NumberIn                          .00000    
+NO_VALIDO.NumberOut                         .00000    
+SEGUNDA.NumberIn                            6704.0    
+SEGUNDA.NumberOut                           6697.0    
+VALIDO.NumberIn                             9641.0    
+VALIDO.NumberOut                            9637.0    
+Medico.NumberSeized                         15505.    
+Medico.ScheduledUtilization                 .80954    
+System.NumberOut                            16334.    
+
+
+Simulation run time: 2.80 minutes.
+Simulation run complete.
