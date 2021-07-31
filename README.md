@@ -10,8 +10,8 @@
 
 # Actividades en clase
 
-- [Actividad 1](X). Juego de la vida
-- [Actividad 2](X). Boletín - Simulación tráfico vehicular y regresión
+- [Actividad 1](https://github.com/AlejoEnriquez2/Simulacion/blob/main/Juego%20de%20la%20Vida%20-%20PIB%20-%20Trafico/Juego%20de%20la%20Vida.pdf). Juego de la vida
+- [Actividad 2](https://github.com/AlejoEnriquez2/Simulacion/blob/main/Juego%20de%20la%20Vida%20-%20PIB%20-%20Trafico/PIB%20-%20Trafico.pdf). Boletín - Simulación tráfico vehicular y regresión
 
 # Pruebas de simulación
 
