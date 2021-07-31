@@ -18,9 +18,9 @@ Para acceder al código siga el primer hipervinculo, y para acceder al informe e
 
 ## Pruebas de simulación
 
-- [Prueba 1](https://github.com/AlejoEnriquez2/Simulacion/tree/main/Prueba). [:page_with_curl:]() Modelos de regresión
-- [Prueba 2](https://github.com/AlejoEnriquez2/Simulacion/tree/main/Prueba_Enriquez_2). [:page_with_curl:]() Simulación regreso a clases
+- [Prueba 1](https://github.com/AlejoEnriquez2/Simulacion/tree/main/Prueba). [:page_with_curl:](https://github.com/AlejoEnriquez2/Simulacion/blob/main/Prueba/Prueba_Enriquez.pdf) Modelos de regresión
+- [Prueba 2](https://github.com/AlejoEnriquez2/Simulacion/tree/main/Prueba_Enriquez_2). [:page_with_curl:](https://github.com/AlejoEnriquez2/Simulacion/blob/main/Prueba_Enriquez_2/Informe_Prueba2.pdf) Simulación regreso a clases
 
 ## Examenes
 
-- [Primer interciclo](https://github.com/AlejoEnriquez2/Simulacion/tree/main/Examen)[:page_with_curl:]()
+- [Primer interciclo](https://github.com/AlejoEnriquez2/Simulacion/tree/main/Examen)[:page_with_curl:](https://github.com/AlejoEnriquez2/Simulacion/blob/main/Examen/Informe_Examen_Enriquez.pdf)
